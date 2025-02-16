@@ -17,6 +17,13 @@
             border-radius: 8px;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
+        .date-display {
+            text-align: center;
+            margin-bottom: 20px;
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #4a90e2;
+        }
         table {
             width: 100%;
             border-collapse: collapse;
@@ -44,10 +51,17 @@
             font-size: 18px;
             color: #666;
         }
+        .no-data {
+            text-align: center;
+            padding: 20px;
+            color: #666;
+            font-style: italic;
+        }
     </style>
 </head>
 <body>
     <div class="container">
+        <div id="dateDisplay" class="date-display"></div>
         <table>
             <thead>
                 <tr>
@@ -66,13 +80,24 @@
     </div>
 
     <script>
+        function getTodayDate() {
+            const today = new Date();
+            const year = today.getFullYear();
+            const month = String(today.getMonth() + 1).padStart(2, '0');
+            const day = String(today.getDate()).padStart(2, '0');
+            return `${year}${month}${day}`;
+        }
+
+        function formatDisplayDate(dateStr) {
+            return `${dateStr.slice(0, 4)}년 ${dateStr.slice(4, 6)}월 ${dateStr.slice(6, 8)}일`;
+        }
+
         // 테이블에 데이터를 로드하는 함수
         async function loadRaceData() {
             try {
-                // 캐시를 무시하기 위해 타임스탬프 추가
                 const timestamp = new Date().getTime();
                 const response = await fetch(`url.json?v=${timestamp}`, {
-                    cache: 'no-store',  // 캐시 사용하지 않음
+                    cache: 'no-store',
                     headers: {
                         'Cache-Control': 'no-cache'
                     }
@@ -80,10 +105,33 @@
                 const data = await response.json();
                 
                 const tableBody = document.getElementById('raceTableBody');
+                const dateDisplay = document.getElementById('dateDisplay');
+                const today = getTodayDate();
+                
+                // 현재 날짜 표시
+                dateDisplay.textContent = formatDisplayDate(today);
+                
+                // 오늘 날짜의 데이터만 필터링
+                const todayRaces = data.races.filter(race => race.date === today);
+                
+                if (todayRaces.length === 0) {
+                    tableBody.innerHTML = `
+                        <tr>
+                            <td colspan="6" class="no-data">
+                                오늘 등록된 경주 정보가 없습니다
+                            </td>
+                        </tr>
+                    `;
+                    return;
+                }
+
                 tableBody.innerHTML = ''; // 기존 내용 초기화
 
+                // 경주번호 순으로 정렬
+                todayRaces.sort((a, b) => a.raceNumber - b.raceNumber);
+
                 // 각 경주 데이터에 대해 행 생성
-                data.races.forEach(race => {
+                todayRaces.forEach(race => {
                     const row = document.createElement('tr');
                     row.innerHTML = `
                         <td>${race.date}</td>
@@ -99,7 +147,7 @@
                 console.error('데이터 로드 중 오류 발생:', error);
                 document.getElementById('raceTableBody').innerHTML = `
                     <tr>
-                        <td colspan="4" style="color: red;">
+                        <td colspan="6" style="color: red;">
                             데이터를 불러오는 중 오류가 발생했습니다.
                         </td>
                     </tr>
