@@ -1,0 +1,28 @@
+{
+    "races": [
+      {
+        "date": "20250215",
+        "location": "서울",
+        "raceNumber": 1,
+        "videoId": "vJMMgTQLCKk"
+      },
+      {
+        "date": "20250215",
+        "location": "서울",
+        "raceNumber": 2,
+        "videoId": "GZVOfOIWpjc"
+      },
+      {
+        "date": "20250215",
+        "location": "서울",
+        "raceNumber": 3,
+        "videoId": "QfYuW0LD1cI"
+      },
+      {
+        "date": "20250215",
+        "location": "서울",
+        "raceNumber": 4,
+        "videoId": "cxhsbKb"
+      }
+    ]
+  }
