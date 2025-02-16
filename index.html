@@ -54,6 +54,8 @@
                     <th>경주날짜</th>
                     <th>경주지역</th>
                     <th>경주번호</th>
+                    <th>영상종류</th>
+                    <th>KOR/ENG</th>
                     <th>Youtube Video Id</th>
                 </tr>
             </thead>
@@ -87,6 +89,8 @@
                         <td>${race.date}</td>
                         <td>${race.location}</td>
                         <td>${race.raceNumber}</td>
+                        <td>${race.videoType}</td>
+                        <td>${race.language}</td>
                         <td>${race.videoId}</td>
                     `;
                     tableBody.appendChild(row);
