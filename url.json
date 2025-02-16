@@ -35,6 +35,12 @@
       "location": "서울",
       "raceNumber": 6,
       "videoId": "newVideoId123"
+    },
+    {
+      "date": "20250215",
+      "location": "서울",
+      "raceNumber": 7,
+      "videoId": "newVideoId123"
     }
   ]
 }
