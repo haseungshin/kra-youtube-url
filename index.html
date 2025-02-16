@@ -67,7 +67,14 @@
         // 테이블에 데이터를 로드하는 함수
         async function loadRaceData() {
             try {
-                const response = await fetch('url.json');
+                // 캐시를 무시하기 위해 타임스탬프 추가
+                const timestamp = new Date().getTime();
+                const response = await fetch(`url.json?v=${timestamp}`, {
+                    cache: 'no-store',  // 캐시 사용하지 않음
+                    headers: {
+                        'Cache-Control': 'no-cache'
+                    }
+                });
                 const data = await response.json();
                 
                 const tableBody = document.getElementById('raceTableBody');
@@ -98,6 +105,9 @@
 
         // 페이지 로드 시 데이터 불러오기
         document.addEventListener('DOMContentLoaded', loadRaceData);
+
+        // 60초마다 데이터 자동 새로고침
+        setInterval(loadRaceData, 60000);
     </script>
 </body>
 </html>
