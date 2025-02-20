@@ -3,55 +3,7 @@
     {
       "date": "20250222",
       "location": "서울",
-      "raceNumber": 3,
-      "videoType": "r",
-      "language": "kor",
-      "videoId": "https://youtu.be/eWHMzykl-rE"
-    },
-    {
-      "date": "20250222",
-      "location": "서울",
-      "raceNumber": 4,
-      "videoType": "r",
-      "language": "kor",
-      "videoId": "https://youtu.be/eWHMzykl-rE"
-    },
-    {
-      "date": "20250222",
-      "location": "서울",
-      "raceNumber": 5,
-      "videoType": "r",
-      "language": "kor",
-      "videoId": "https://youtu.be/eWHMzykl-rE"
-    },
-    {
-      "date": "20250222",
-      "location": "서울",
-      "raceNumber": 6,
-      "videoType": "r",
-      "language": "kor",
-      "videoId": "https://youtu.be/eWHMzykl-rE"
-    },
-    {
-      "date": "20250222",
-      "location": "서울",
-      "raceNumber": 7,
-      "videoType": "r",
-      "language": "kor",
-      "videoId": "https://youtu.be/eWHMzykl-rE"
-    },
-    {
-      "date": "20250222",
-      "location": "서울",
-      "raceNumber": 8,
-      "videoType": "r",
-      "language": "kor",
-      "videoId": "https://youtu.be/eWHMzykl-rE"
-    },
-    {
-      "date": "20250222",
-      "location": "서울",
-      "raceNumber": 9,
+      "raceNumber": 1,
       "videoType": "r",
       "language": "kor",
       "videoId": "https://youtu.be/eWHMzykl-rE"
