@@ -15,6 +15,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/xlRwKUHIDvQ"
+    },
+    {
+      "date": "20250222",
+      "location": "서울",
+      "raceNumber": 9,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/3ERQC52I2cU"
     }
   ]
 }
