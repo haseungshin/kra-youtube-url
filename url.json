@@ -31,6 +31,14 @@
       "videoType": "r",
       "language": "eng",
       "videoId": "https://youtu.be/MZf0Ce_E3JE"
+    },
+    {
+      "date": "20250222",
+      "location": "서울",
+      "raceNumber": 10,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/uDV7CmfHi6A"
     }
   ]
 }
