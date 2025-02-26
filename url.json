@@ -435,6 +435,14 @@
     {
       "date": "20250226",
       "location": "서울",
+      "raceNumber": 7,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/R4zlASNh9OI"
+    },
+    {
+      "date": "20250226",
+      "location": "서울",
       "raceNumber": 8,
       "videoType": "r",
       "language": "kor",
