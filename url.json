@@ -419,6 +419,14 @@
     {
       "date": "20250226",
       "location": "서울",
+      "raceNumber": 4,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/n077TN3m7aI"
+    },
+    {
+      "date": "20250226",
+      "location": "서울",
       "raceNumber": 8,
       "videoType": "r",
       "language": "kor",
