@@ -1,5 +1,12 @@
 {
   "races": [
-
+    {
+      "date": "20250226",
+      "location": "제주",
+      "raceNumber": 5,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/AF-OIYPlgXo"
+    }
   ]
 }
