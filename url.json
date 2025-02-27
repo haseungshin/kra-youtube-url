@@ -15,62 +15,6 @@
       "videoType": "r",
       "language": "kor",
       "videoId": "https://youtu.be/AF-OIYPlgXx"
-    },
-    {
-      "date": "20250227",
-      "location": "서울",
-      "raceNumber": 1,
-      "videoType": "y",
-      "language": "kor",
-      "videoId": "https://youtu.be/Fwc8MdutlKc"
-    },
-    {
-      "date": "20250227",
-      "location": "서울",
-      "raceNumber": 2,
-      "videoType": "y",
-      "language": "kor",
-      "videoId": "https://youtu.be/Vc8kanWFVIs"
-    },
-    {
-      "date": "20250227",
-      "location": "제주",
-      "raceNumber": 5,
-      "videoType": "y",
-      "language": "kor",
-      "videoId": "https://youtu.be/5nGAbYmAe28"
-    },
-    {
-      "date": "20250227",
-      "location": "제주",
-      "raceNumber": 6,
-      "videoType": "r",
-      "language": "kor",
-      "videoId": "https://youtu.be/IwE-VbJlSbs"
-    },
-    {
-      "date": "20250227",
-      "location": "부경",
-      "raceNumber": 7,
-      "videoType": "r",
-      "language": "kor",
-      "videoId": "https://youtu.be/9GE-BRi8-_s"
-    },
-    {
-      "date": "20250227",
-      "location": "서울",
-      "raceNumber": 8,
-      "videoType": "r",
-      "language": "kor",
-      "videoId": "https://youtu.be/wiCZO6iN1wo"
-    },
-    {
-      "date": "20250227",
-      "location": "서울",
-      "raceNumber": 9,
-      "videoType": "r",
-      "language": "kor",
-      "videoId": "https://youtu.be/SgDvzfi1Xok"
     }
   ]
 }
