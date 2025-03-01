@@ -1,5 +1,12 @@
 {
   "races": [
-
+    {
+      "date": "20250301",
+      "location": "서울",
+      "raceNumber": 2,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/tdnlVjqMsso"
+    }
   ]
 }
