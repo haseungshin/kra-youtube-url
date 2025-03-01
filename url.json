@@ -15,6 +15,14 @@
       "videoType": "r",
       "language": "kor",
       "videoId": "https://youtu.be/b84C2WG7BH4"
+    },
+    {
+      "date": "20250301",
+      "location": "SEOUL",
+      "raceNumber": 2,
+      "videoType": "r",
+      "language": "eng",
+      "videoId": "https://youtu.be/5JHU9LtSqMI"
     }
   ]
 }
