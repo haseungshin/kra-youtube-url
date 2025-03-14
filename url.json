@@ -1583,6 +1583,14 @@
       "videoType": "r",
       "language": "kor",
       "videoId": "https://youtu.be/rR3c-pVPfLo"
+    },
+    {
+      "date": "20250314",
+      "location": "부경",
+      "raceNumber": 7,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/QEMAnmU3gVU"
     }
   ]
 }
