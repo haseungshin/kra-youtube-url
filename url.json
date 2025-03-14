@@ -1399,6 +1399,14 @@
       "videoType": "r",
       "language": "kor",
       "videoId": "https://youtu.be/aP1t08Ve24U"
+    },
+    {
+      "date": "20250314",
+      "location": "BUSAN",
+      "raceNumber": 2,
+      "videoType": "r",
+      "language": "eng",
+      "videoId": "https://youtu.be/cLN_xAqXdGA"
     }
   ]
 }
