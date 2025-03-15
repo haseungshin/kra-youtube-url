@@ -1959,6 +1959,14 @@
       "videoType": "r",
       "language": "kor",
       "videoId": "https://youtu.be/Jyc-gcpweOE"
+    },
+    {
+      "date": "20250315",
+      "location": "SEOUL",
+      "raceNumber": 9,
+      "videoType": "r",
+      "language": "eng",
+      "videoId": "https://youtu.be/jIi8gI-sBwU"
     }
   ]
 }
