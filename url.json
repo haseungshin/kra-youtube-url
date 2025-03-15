@@ -1967,6 +1967,14 @@
       "videoType": "r",
       "language": "eng",
       "videoId": "https://youtu.be/jIi8gI-sBwU"
+    },
+    {
+      "date": "20250315",
+      "location": "서울",
+      "raceNumber": 10,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/uB2c9HiaqZ0"
     }
   ]
 }
