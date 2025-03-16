@@ -2058,6 +2058,14 @@
     },
     {
       "date": "20250316",
+      "location": "부경",
+      "raceNumber": 2,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/ol58Ux-RoaY"
+    },
+    {
+      "date": "20250316",
       "location": "서울",
       "raceNumber": 3,
       "videoType": "y",
