@@ -1999,6 +1999,14 @@
       "videoType": "r",
       "language": "eng",
       "videoId": "https://youtu.be/x-ylsZ6bX-A"
+    },
+    {
+      "date": "20250316",
+      "location": "서울",
+      "raceNumber": 2,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/io_XBXjr3HU"
     }
   ]
 }
