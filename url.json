@@ -2018,6 +2018,14 @@
     },
     {
       "date": "20250316",
+      "location": "BUSAN",
+      "raceNumber": 1,
+      "videoType": "r",
+      "language": "eng",
+      "videoId": "https://youtu.be/dPKSuJhLcgs"
+    },
+    {
+      "date": "20250316",
       "location": "서울",
       "raceNumber": 2,
       "videoType": "y",
