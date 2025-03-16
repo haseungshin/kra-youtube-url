@@ -2015,6 +2015,14 @@
       "videoType": "r",
       "language": "kor",
       "videoId": "https://youtu.be/UkXeYwyoW8I"
+    },
+    {
+      "date": "20250316",
+      "location": "SEOUL",
+      "raceNumber": 2,
+      "videoType": "r",
+      "language": "eng",
+      "videoId": "https://youtu.be/61oGVeCgP_o"
     }
   ]
 }
