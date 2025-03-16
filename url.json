@@ -1983,6 +1983,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/qKVisXdw27s"
+    },
+    {
+      "date": "20250316",
+      "location": "서울",
+      "raceNumber": 1,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/UC8XVsfAvUE"
     }
   ]
 }
