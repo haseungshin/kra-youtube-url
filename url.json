@@ -2495,6 +2495,14 @@
       "videoType": "r",
       "language": "kor",
       "videoId": "https://youtu.be/FJ7dfruu9sQ"
+    },
+    {
+      "date": "20250321",
+      "location": "BUSAN",
+      "raceNumber": 3,
+      "videoType": "r",
+      "language": "eng",
+      "videoId": "https://youtu.be/9GoPMou00o4"
     }
   ]
 }
