@@ -127,6 +127,14 @@
       "videoType": "r",
       "language": "kor",
       "videoId": "https://youtu.be/5ceUFl31D1I"
+    },
+    {
+      "date": "20250321",
+      "location": "부경",
+      "raceNumber": 8,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/0eXO5hQ06b0"
     }
   ]
 }
