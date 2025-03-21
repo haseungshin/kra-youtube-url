@@ -63,6 +63,14 @@
       "videoType": "r",
       "language": "kor",
       "videoId": "https://youtu.be/oApjIh9xMT8"
+    },
+    {
+      "date": "20250321",
+      "location": "BUSAN",
+      "raceNumber": 6,
+      "videoType": "r",
+      "language": "eng",
+      "videoId": "https://youtu.be/48tp9DF6XI4"
     }
   ]
 }
