@@ -191,6 +191,14 @@
       "videoType": "r",
       "language": "eng",
       "videoId": "https://youtu.be/VT4sEzjui70"
+    },
+    {
+      "date": "20250322",
+      "location": "제주",
+      "raceNumber": 3,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/lJnd-VXgPjM"
     }
   ]
 }
