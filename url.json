@@ -175,6 +175,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/ov2gS6jODdY"
+    },
+    {
+      "date": "20250322",
+      "location": "서울",
+      "raceNumber": 3,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/MvxJBrKXAg0"
     }
   ]
 }
