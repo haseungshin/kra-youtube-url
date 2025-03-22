@@ -155,7 +155,7 @@
     {
       "date": "20250322",
       "location": "서울",
-      "raceNumber": 2,
+      "raceNumber": 1,
       "videoType": "r",
       "language": "kor",
       "videoId": "https://youtu.be/test"
@@ -164,6 +164,14 @@
       "date": "20250322",
       "location": "서울",
       "raceNumber": 1,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/2_z_TLw-c98"
+    },
+    {
+      "date": "20250322",
+      "location": "서울",
+      "raceNumber": 2,
       "videoType": "r",
       "language": "kor",
       "videoId": "https://youtu.be/test"
