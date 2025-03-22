@@ -151,30 +151,6 @@
       "videoType": "r",
       "language": "eng",
       "videoId": "https://youtu.be/HahM1nIMBrs"
-    },
-    {
-      "date": "20250322",
-      "location": "서울",
-      "raceNumber": 2,
-      "videoType": "y",
-      "language": "kor",
-      "videoId": "https://youtu.be/l-bbL50Q95Q"
-    },
-    {
-      "date": "20250322",
-      "location": "서울",
-      "raceNumber": 2,
-      "videoType": "r",
-      "language": "kor",
-      "videoId": "https://youtu.be/kpfrAVWuSVY"
-    },
-    {
-      "date": "20250322",
-      "location": "SEOUL",
-      "raceNumber": 2,
-      "videoType": "r",
-      "language": "eng",
-      "videoId": "https://youtu.be/ErijecApdQk"
     }
   ]
 }
