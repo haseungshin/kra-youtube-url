@@ -1071,6 +1071,14 @@
       "videoType": "r",
       "language": "kor",
       "videoId": "https://youtu.be/tRd5Jb7DZTY"
+    },
+    {
+      "date": "20250329",
+      "location": "SEOUL",
+      "raceNumber": 2,
+      "videoType": "r",
+      "language": "eng",
+      "videoId": "https://youtu.be/5UX10i01wNE"
     }
   ]
 }
