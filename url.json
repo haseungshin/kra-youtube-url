@@ -1415,6 +1415,14 @@
       "videoType": "r",
       "language": "eng",
       "videoId": "https://youtu.be/k0H2huK3JRU"
+    },
+    {
+      "date": "20250330",
+      "location": "서울",
+      "raceNumber": 3,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/4-_7dQvsdtY"
     }
   ]
 }
