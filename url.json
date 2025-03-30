@@ -1743,6 +1743,14 @@
       "videoType": "r",
       "language": "eng",
       "videoId": "https://youtu.be/o6i6ZaFcW6Q"
+    },
+    {
+      "date": "20250330",
+      "location": "서울",
+      "raceNumber": 11,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/a4kTdtOpwug"
     }
   ]
 }
