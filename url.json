@@ -1943,6 +1943,14 @@
       "videoType": "r",
       "language": "eng",
       "videoId": "https://youtu.be/HetIyF_z74M"
+    },
+    {
+      "date": "20250404",
+      "location": "제주",
+      "raceNumber": 6,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/UmYSJL_z-ic"
     }
   ]
 }
