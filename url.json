@@ -1983,6 +1983,14 @@
       "videoType": "r",
       "language": "eng",
       "videoId": "https://youtu.be/7csFj6iJhiQ"
+    },
+    {
+      "date": "20250404",
+      "location": "제주",
+      "raceNumber": 7,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/D6uaB2e04-Y"
     }
   ]
 }
