@@ -1847,6 +1847,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/EUO_XAa8URs"
+    },
+    {
+      "date": "20250404",
+      "location": "부경",
+      "raceNumber": 3,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/9DaemHRj-DE"
     }
   ]
 }
