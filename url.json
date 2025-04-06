@@ -2623,6 +2623,14 @@
       "videoType": "r",
       "language": "kor",
       "videoId": "https://youtu.be/z4A6-KpF3Xs"
+    },
+    {
+      "date": "20250406",
+      "location": "SEOUL",
+      "raceNumber": 6,
+      "videoType": "r",
+      "language": "eng",
+      "videoId": "https://youtu.be/XL60X84HUyc"
     }
   ]
 }
