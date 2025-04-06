@@ -2727,6 +2727,14 @@
       "videoType": "r",
       "language": "kor",
       "videoId": "https://youtu.be/wFBZkpl5ftU"
+    },
+    {
+      "date": "20250406",
+      "location": "SEOUL",
+      "raceNumber": 9,
+      "videoType": "r",
+      "language": "eng",
+      "videoId": "https://youtu.be/bCqQgVSs9v0"
     }
   ]
 }
