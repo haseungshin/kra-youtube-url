@@ -2666,6 +2666,14 @@
     },
     {
       "date": "20250406",
+      "location": "부경",
+      "raceNumber": 6,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/DEaO0bT6VOs"
+    },
+    {
+      "date": "20250406",
       "location": "서울",
       "raceNumber": 7,
       "videoType": "y",
