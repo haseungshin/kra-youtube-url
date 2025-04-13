@@ -3623,6 +3623,14 @@
       "videoType": "r",
       "language": "eng",
       "videoId": "https://youtu.be/wgToyMoheWs"
+    },
+    {
+      "date": "20250413",
+      "location": "서울",
+      "raceNumber": 6,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/3G4qgfcyoBE"
     }
   ]
 }
