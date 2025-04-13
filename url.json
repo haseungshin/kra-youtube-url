@@ -3455,30 +3455,6 @@
       "videoType": "r",
       "language": "eng",
       "videoId": "https://youtu.be/600rRA3O674"
-    },
-    {
-      "date": "20250413",
-      "location": "서울",
-      "raceNumber": 1,
-      "videoType": "y",
-      "language": "kor",
-      "videoId": "https://youtu.be/v0cdgEOPePA"
-    },
-    {
-      "date": "20250413",
-      "location": "서울",
-      "raceNumber": 1,
-      "videoType": "r",
-      "language": "kor",
-      "videoId": "https://youtu.be/Xtq3-9VRO9c"
-    },
-    {
-      "date": "20250413",
-      "location": "SEOUL",
-      "raceNumber": 1,
-      "videoType": "r",
-      "language": "eng",
-      "videoId": "https://youtu.be/HKDVfr8qnk0"
     }
   ]
 }
