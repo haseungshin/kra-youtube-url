@@ -4455,6 +4455,14 @@
       "videoType": "r",
       "language": "eng",
       "videoId": "https://youtu.be/YUn9atAznIo"
+    },
+    {
+      "date": "20250419",
+      "location": "서울",
+      "raceNumber": 9,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/bfMdeVfccu0"
     }
   ]
 }
