@@ -4503,6 +4503,14 @@
       "videoType": "r",
       "language": "eng",
       "videoId": "https://youtu.be/7frn4v7XN_Q"
+    },
+    {
+      "date": "20250420",
+      "location": "서울",
+      "raceNumber": 1,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/a8Fmv2YL0gU"
     }
   ]
 }
