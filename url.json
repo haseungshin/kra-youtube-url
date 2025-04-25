@@ -79,6 +79,14 @@
       "videoType": "r",
       "language": "kor",
       "videoId": "https://youtu.be/euDGOSGc2e0"
+    },
+    {
+      "date": "20250425",
+      "location": "BUSAN",
+      "raceNumber": 2,
+      "videoType": "r",
+      "language": "eng",
+      "videoId": "https://youtu.be/elMWZZPIDA0"
     }
   ]
 }
