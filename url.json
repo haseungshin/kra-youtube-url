@@ -7,62 +7,6 @@
       "videoType": "r",
       "language": "kor",
       "videoId": "https://youtu.be/r7J6o-Ge-vQ"
-    },
-    {
-      "date": "20250425",
-      "location": "제주",
-      "raceNumber": 5,
-      "videoType": "r",
-      "language": "kor",
-      "videoId": "https://youtu.be/ljnAe2uFAC8"
-    },
-    {
-      "date": "20250425",
-      "location": "부경",
-      "raceNumber": 5,
-      "videoType": "y",
-      "language": "kor",
-      "videoId": "https://youtu.be/FZqNNN0Idz0"
-    },
-    {
-      "date": "20250425",
-      "location": "부경",
-      "raceNumber": 5,
-      "videoType": "r",
-      "language": "kor",
-      "videoId": "https://youtu.be/AZ6hK_oqPD0"
-    },
-    {
-      "date": "20250425",
-      "location": "BUSAN",
-      "raceNumber": 5,
-      "videoType": "r",
-      "language": "eng",
-      "videoId": "https://youtu.be/zvsTxPl6G3M"
-    },
-    {
-      "date": "20250425",
-      "location": "제주",
-      "raceNumber": 6,
-      "videoType": "y",
-      "language": "kor",
-      "videoId": "https://youtu.be/juJnU3kHvpk"
-    },
-    {
-      "date": "20250425",
-      "location": "제주",
-      "raceNumber": 6,
-      "videoType": "r",
-      "language": "kor",
-      "videoId": "https://youtu.be/RDW9rPePHHk"
-    },
-    {
-      "date": "20250425",
-      "location": "부경",
-      "raceNumber": 6,
-      "videoType": "y",
-      "language": "kor",
-      "videoId": "https://youtu.be/KzSgXxle_mk"
     }
   ]
 }
