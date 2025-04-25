@@ -135,11 +135,18 @@
                 // 각 경주 데이터에 대해 행 생성
                 todayRaces.forEach(race => {
                     const row = document.createElement('tr');
+                    
+                    // confirmed 값 확인 및 설정
+                    let confirmedValue = "미처리";
+                    if ('confirmed' in race && race.confirmed) {
+                        confirmedValue = race.confirmed;
+                    }
+                    
                     row.innerHTML = `
                         <td>${race.date}</td>
                         <td>${race.location}</td>
                         <td>${race.raceNumber}</td>
-                        <td>${race.confirmed}</td>
+                        <td>${confirmedValue}</td>
                     `;
                     tableBody.appendChild(row);
                 });
