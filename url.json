@@ -31,6 +31,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/r2uRGSGyTQ4"
+    },
+    {
+      "date": "20250425",
+      "location": "부경",
+      "raceNumber": 7,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/A0vSB0jC0dU"
     }
   ]
 }
