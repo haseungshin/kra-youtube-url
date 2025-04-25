@@ -68,9 +68,7 @@
                     <th>경주날짜</th>
                     <th>경주지역</th>
                     <th>경주번호</th>
-                    <th>영상종류</th>
-                    <th>KOR/ENG</th>
-                    <th>Youtube Video Id</th>
+                    <th>확정 및 URL처리</th>
                 </tr>
             </thead>
             <tbody id="raceTableBody">
@@ -141,9 +139,7 @@
                         <td>${race.date}</td>
                         <td>${race.location}</td>
                         <td>${race.raceNumber}</td>
-                        <td>${race.videoType}</td>
-                        <td>${race.language}</td>
-                        <td>${race.videoId}</td>
+                        <td>${race.confirmed}</td>
                     `;
                     tableBody.appendChild(row);
                 });
