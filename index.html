@@ -112,7 +112,11 @@
                 dateDisplay.textContent = formatDisplayDate(today);
                 
                 // 오늘 날짜의 데이터만 필터링
-                const todayRaces = data.races.filter(race => race.date === today);
+                const todayRaces = data.races.filter(race => 
+                  race.date === today && 
+                  race.language === 'kor' && 
+                  race.videoType === 'r'
+                );
                 
                 if (todayRaces.length === 0) {
                     tableBody.innerHTML = `
