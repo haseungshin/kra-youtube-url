@@ -8,13 +8,21 @@
       "language": "kor",
       "videoId": "https://youtu.be/r7J6o-Ge-vQ"
     },
-     {
-       "date": "20250425",
-       "location": "부경",
-       "raceNumber": 7,
-       "videoType": "r",
-       "language": "kor",
-       "videoId": "https://youtu.be/A0vSB0jC0dU"
-     }
+    {
+      "date": "20250425",
+      "location": "부경",
+      "raceNumber": 7,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/A0vSB0jC0dU"
+    },
+    {
+      "date": "20250425",
+      "location": "부경",
+      "raceNumber": 8,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/qsX0XCyk4j8"
+    }
   ]
 }
