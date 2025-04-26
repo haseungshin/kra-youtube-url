@@ -65,10 +65,10 @@
         <table>
             <thead>
                 <tr>
-                    <th>지역</th>
-                    <th>경주</th>
-                    <th>영상</th>
-                    <th>확정/URL처리</th>
+                    <th>경주지역</th>
+                    <th>경주번호</th>
+                    <th>KOR/ENG</th>
+                    <th>확정 및 URL처리</th>
                 </tr>
             </thead>
             <tbody id="raceTableBody">
@@ -162,10 +162,18 @@
                     // 스타일 적용
                     row.style.color = textColor;
                     
+                    // language 값에 따라 표시 텍스트 변경
+                    let languageText = race.language;
+                    if (race.language && race.language.toLowerCase() === "kor") {
+                        languageText = "국내";
+                    } else if (race.language && race.language.toLowerCase() === "eng") {
+                        languageText = "해외";
+                    }
+                    
                     row.innerHTML = `
                         <td>${race.location}</td>
                         <td>${race.raceNumber}경주</td>
-                        <td>${race.language}</td>
+                        <td>${languageText}</td>
                         <td>${confirmedValue}</td>
                     `;
                     tableBody.appendChild(row);
