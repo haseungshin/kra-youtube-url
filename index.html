@@ -90,6 +90,11 @@
             return `${dateStr.slice(0, 4)}년 ${dateStr.slice(4, 6)}월 ${dateStr.slice(6, 8)}일`;
         }
 
+        // 스크롤을 맨 아래로 이동하는 함수
+        function scrollToBottom() {
+            window.scrollTo(0, document.body.scrollHeight);
+        }
+
         // 테이블에 데이터를 로드하는 함수
         async function loadRaceData() {
             try {
@@ -123,6 +128,8 @@
                             </td>
                         </tr>
                     `;
+                    // 데이터가 없어도 스크롤 이동
+                    scrollToBottom();
                     return;
                 }
 
@@ -149,6 +156,9 @@
                     `;
                     tableBody.appendChild(row);
                 });
+                
+                // 데이터 로드 후 스크롤을 맨 아래로 이동
+                scrollToBottom();
             } catch (error) {
                 console.error('데이터 로드 중 오류 발생:', error);
                 document.getElementById('raceTableBody').innerHTML = `
@@ -158,11 +168,18 @@
                         </td>
                     </tr>
                 `;
+                // 오류 발생해도 스크롤 이동
+                scrollToBottom();
             }
         }
 
-        // 페이지 로드 시 데이터 불러오기
-        document.addEventListener('DOMContentLoaded', loadRaceData);
+        // 페이지 로드 시 바로 스크롤 아래로 이동하고 데이터 불러오기
+        document.addEventListener('DOMContentLoaded', () => {
+            // 페이지 로드 즉시 스크롤 맨 아래로 이동
+            scrollToBottom();
+            // 데이터 로드
+            loadRaceData();
+        });
 
         // 60초마다 데이터 자동 새로고침
         setInterval(loadRaceData, 60000);
