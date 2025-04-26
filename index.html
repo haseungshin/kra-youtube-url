@@ -67,8 +67,7 @@
                 <tr>
                     <th>지역</th>
                     <th>번호</th>
-                    <th>영상</th>
-                    <th>확정/URL처리</th>
+                    <th>상태</th>
                 </tr>
             </thead>
             <tbody id="raceTableBody">
@@ -87,7 +86,7 @@
         }
 
         function formatDisplayDate(dateStr) {
-            return `${dateStr.slice(0, 4)}년 ${dateStr.slice(4, 6)}월 ${dateStr.slice(6, 8)}일`;
+            return `${dateStr.slice(0, 4)}년 ${dateStr.slice(4, 6)}월 ${dateStr.slice(6, 8)}일 확정/URL 처리 여부`;
         }
 
         // 스크롤을 맨 아래로 이동하는 함수
@@ -170,12 +169,18 @@
                         languageText = "해외";
                     }
                     
+                    // row.innerHTML = `
+                    //     <td>${race.location}</td>
+                    //     <td>${race.raceNumber}경주</td>
+                    //     <td>${languageText}</td>
+                    //     <td>${confirmedValue}</td>
+                    // `;
                     row.innerHTML = `
                         <td>${race.location}</td>
                         <td>${race.raceNumber}경주</td>
-                        <td>${languageText}</td>
                         <td>${confirmedValue}</td>
                     `;
+                    
                     tableBody.appendChild(row);
                 });
                 
