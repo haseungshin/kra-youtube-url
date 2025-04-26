@@ -148,6 +148,20 @@
                         confirmedValue = race.confirmed;
                     }
                     
+                    // 경주지역에 따라 텍스트 색상 지정
+                    let textColor = "black"; // 기본 색상
+                    const location = race.location.toUpperCase();
+                    if (location === "SEOUL" || location === "서울") {
+                        textColor = "#0066cc"; // 파란색
+                    } else if (location === "JEJU" || location === "제주") {
+                        textColor = "#cc0000"; // 빨간색
+                    } else if (location === "BUSAN" || location === "부산") {
+                        textColor = "#009900"; // 초록색
+                    }
+                    
+                    // 스타일 적용
+                    row.style.color = textColor;
+                    
                     row.innerHTML = `
                         <td>${race.location}</td>
                         <td>${race.raceNumber}경주</td>
