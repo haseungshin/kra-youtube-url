@@ -465,6 +465,14 @@
     },
     {
       "date": "20250427",
+      "location": "BUSAN",
+      "raceNumber": 1,
+      "videoType": "r",
+      "language": "eng",
+      "videoId": "https://youtu.be/5GzNSaCHlJw"
+    },
+    {
+      "date": "20250427",
       "location": "서울",
       "raceNumber": 2,
       "videoType": "y",
