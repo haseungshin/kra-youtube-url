@@ -800,6 +800,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/fqgdWEFjP3Q"
+    },
+    {
+      "date": "20250427",
+      "location": "서울",
+      "raceNumber": 10,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/ZV4JID3Nx_I"
     }
   ]
 }
