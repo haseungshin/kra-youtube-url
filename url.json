@@ -1084,6 +1084,14 @@
       "language": "kor",
       "videoId": "https://youtu.be/g3aC6GgTAhs",
       "confirmed": "O"
+    },
+    {
+      "date": "20250502",
+      "location": "부경",
+      "raceNumber": 6,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/OwB8RSSjmMU"
     }
   ]
 }
