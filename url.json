@@ -972,6 +972,14 @@
       "language": "kor",
       "videoId": "https://youtu.be/LiVRSPtJJso",
       "confirmed": "O"
+    },
+    {
+      "date": "20250502",
+      "location": "BUSAN",
+      "raceNumber": 3,
+      "videoType": "r",
+      "language": "eng",
+      "videoId": "https://youtu.be/F-xT6qbkiG4"
     }
   ]
 }
