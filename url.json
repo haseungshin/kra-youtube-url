@@ -920,6 +920,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/MCU8CdjpXPU"
+    },
+    {
+      "date": "20250502",
+      "location": "부경",
+      "raceNumber": 2,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/DNpMpwSqb-Q"
     }
   ]
 }
