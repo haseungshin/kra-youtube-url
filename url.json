@@ -1980,6 +1980,14 @@
       "videoType": "r",
       "language": "kor",
       "videoId": "https://youtu.be/paW4JDkYfQk"
+    },
+    {
+      "date": "20250504",
+      "location": "SEOUL",
+      "raceNumber": 11,
+      "videoType": "r",
+      "language": "eng",
+      "videoId": "https://youtu.be/XK1QNl0iZq4"
     }
   ]
 }
