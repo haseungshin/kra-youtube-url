@@ -1954,6 +1954,14 @@
       "videoType": "r",
       "language": "kor",
       "videoId": "https://youtu.be/vRjTwUm2xdw"
+    },
+    {
+      "date": "20250504",
+      "location": "SEOUL",
+      "raceNumber": 10,
+      "videoType": "r",
+      "language": "eng",
+      "videoId": "https://youtu.be/Fkix4qG_g6M"
     }
   ]
 }
