@@ -1964,6 +1964,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/Fkix4qG_g6M",
       "confirmed": "O"
+    },
+    {
+      "date": "20250504",
+      "location": "서울",
+      "raceNumber": 11,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/q8bz8S5OFM0"
     }
   ]
 }
