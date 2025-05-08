@@ -1990,6 +1990,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/XK1QNl0iZq4",
       "confirmed": "O"
+    },
+    {
+      "date": "20250508",
+      "location": "제주",
+      "raceNumber": 1,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/_87pbCTwUx8"
     }
   ]
 }
