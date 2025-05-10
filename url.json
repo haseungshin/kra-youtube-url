@@ -2588,7 +2588,8 @@
       "raceNumber": 7,
       "videoType": "r",
       "language": "kor",
-      "videoId": "https://youtu.be/id5Th2u4xJk"
+      "videoId": "https://youtu.be/id5Th2u4xJk",
+      "confirmed": "O"
     },
     {
       "date": "20250510",
@@ -2605,7 +2606,8 @@
       "raceNumber": 7,
       "videoType": "y",
       "language": "kor",
-      "videoId": "https://youtu.be/7RUVRWHeO2k"
+      "videoId": "https://youtu.be/7RUVRWHeO2k",
+      "confirmed": "O"
     },
     {
       "date": "20250510",
