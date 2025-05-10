@@ -2348,6 +2348,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/gvaKzsh8dko"
+    },
+    {
+      "date": "20250510",
+      "location": "서울",
+      "raceNumber": 1,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/ZCNSJ2eqNJ4"
     }
   ]
 }
