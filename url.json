@@ -2383,6 +2383,14 @@
       "language": "kor",
       "videoId": "https://youtu.be/8GCpjqT2cIk",
       "confirmed": "O"
+    },
+    {
+      "date": "20250510",
+      "location": "서울",
+      "raceNumber": 2,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/lN5CT85_U1A"
     }
   ]
 }
