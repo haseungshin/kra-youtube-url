@@ -3360,6 +3360,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/_o5JGf1rcvU",
       "confirmed": "O"
+    },
+    {
+      "date": "20250516",
+      "location": "제주",
+      "raceNumber": 6,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/xhO4eJqbEfg"
     }
   ]
 }
