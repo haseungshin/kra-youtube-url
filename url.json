@@ -3411,6 +3411,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/Kd_HVnJ0I58"
+    },
+    {
+      "date": "20250516",
+      "location": "제주",
+      "raceNumber": 7,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/mTnYIKC3ER0"
     }
   ]
 }
