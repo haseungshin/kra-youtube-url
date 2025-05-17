@@ -3501,6 +3501,14 @@
     {
       "date": "20250517",
       "location": "서울",
+      "raceNumber": 0,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/cXhKfsC9tK0"
+    },
+    {
+      "date": "20250517",
+      "location": "서울",
       "raceNumber": 1,
       "videoType": "r",
       "language": "kor",
