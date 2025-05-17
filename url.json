@@ -3610,6 +3610,14 @@
       "language": "kor",
       "videoId": "https://youtu.be/DgenQJr1n7k",
       "confirmed": "O"
+    },
+    {
+      "date": "20250517",
+      "location": "서울",
+      "raceNumber": 4,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/qFW5Mgk1Yp8"
     }
   ]
 }
