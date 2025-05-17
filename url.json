@@ -3618,6 +3618,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/qFW5Mgk1Yp8"
+    },
+    {
+      "date": "20250517",
+      "location": "서울",
+      "raceNumber": 4,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/a86Lab6tSm0"
     }
   ]
 }
