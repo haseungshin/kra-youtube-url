@@ -3858,6 +3858,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/qPCPeg52I5w",
       "confirmed": "O"
+    },
+    {
+      "date": "20250518",
+      "location": "서울",
+      "raceNumber": 1,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/OkfhtRF7MsE"
     }
   ]
 }
