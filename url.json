@@ -4488,6 +4488,14 @@
       "language": "kor",
       "videoId": "https://youtu.be/o_O94XARYjM",
       "confirmed": "O"
+    },
+    {
+      "date": "20250523",
+      "location": "부경",
+      "raceNumber": 5,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/rVe9gd6jp0k"
     }
   ]
 }
