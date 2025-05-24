@@ -4694,6 +4694,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/lbscQ9t_DMY"
+    },
+    {
+      "date": "20250524",
+      "location": "서울",
+      "raceNumber": 2,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/P1HtVSE6Gw4"
     }
   ]
 }
