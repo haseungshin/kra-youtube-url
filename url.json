@@ -5351,6 +5351,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/SrrSyQUbo68",
       "confirmed": "O"
+    },
+    {
+      "date": "20250525",
+      "location": "서울",
+      "raceNumber": 9,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/Uyh5d-ELZ7M"
     }
   ]
 }
