@@ -5556,7 +5556,8 @@
       "raceNumber": 3,
       "videoType": "r",
       "language": "eng",
-      "videoId": "https://youtu.be/JUo_m-EiWaw"
+      "videoId": "https://youtu.be/JUo_m-EiWaw",
+      "confirmed": "O"
     }
   ]
 }
