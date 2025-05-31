@@ -6099,6 +6099,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/q0Wm8wt8C48"
+    },
+    {
+      "date": "20250531",
+      "location": "서울",
+      "raceNumber": 9,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/Zgyb5UNZHH4"
     }
   ]
 }
