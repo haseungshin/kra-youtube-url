@@ -6523,6 +6523,14 @@
       "videoType": "r",
       "language": "kor",
       "videoId": "https://youtu.be/379S1yoG6I4"
+    },
+    {
+      "date": "20250601",
+      "location": "SEOUL",
+      "raceNumber": 9,
+      "videoType": "r",
+      "language": "eng",
+      "videoId": "https://youtu.be/iG-nF8ZUkSI"
     }
   ]
 }
