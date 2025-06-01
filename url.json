@@ -6575,6 +6575,14 @@
       "videoType": "r",
       "language": "kor",
       "videoId": "https://youtu.be/qPLmDoEDjOI"
+    },
+    {
+      "date": "20250601",
+      "location": "SEOUL",
+      "raceNumber": 11,
+      "videoType": "r",
+      "language": "eng",
+      "videoId": "https://youtu.be/R_K0oPhfTjQ"
     }
   ]
 }
