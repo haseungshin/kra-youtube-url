@@ -6600,7 +6600,8 @@
       "raceNumber": 1,
       "videoType": "r",
       "language": "kor",
-      "videoId": "https://youtu.be/789rauxjeOs"
+      "videoId": "https://youtu.be/789rauxjeOs",
+      "confirmed": "O"
     }
   ]
 }
