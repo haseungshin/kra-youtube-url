@@ -6610,6 +6610,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/wfK_o5Tyl8o"
+    },
+    {
+      "date": "20250606",
+      "location": "부경",
+      "raceNumber": 1,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/8VBrDRdeqBk"
     }
   ]
 }
