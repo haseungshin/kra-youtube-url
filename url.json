@@ -7230,6 +7230,14 @@
       "language": "kor",
       "videoId": "https://youtu.be/wndPMrB6M6I",
       "confirmed": "O"
+    },
+    {
+      "date": "20250607",
+      "location": "서울",
+      "raceNumber": 8,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/-iEJ-gsQFSA"
     }
   ]
 }
