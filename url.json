@@ -7152,6 +7152,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/WG8qrwq-jQM"
+    },
+    {
+      "date": "20250607",
+      "location": "서울",
+      "raceNumber": 6,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/QT-DtetcrDQ"
     }
   ]
 }
