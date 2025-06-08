@@ -7620,6 +7620,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/n56IxC9wks4",
       "confirmed": "O"
+    },
+    {
+      "date": "20250608",
+      "location": "부경",
+      "raceNumber": 7,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/DFoozzFCSMU"
     }
   ]
 }
