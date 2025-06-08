@@ -7308,6 +7308,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/pOHqcsoo5mE",
       "confirmed": "O"
+    },
+    {
+      "date": "20250608",
+      "location": "부경",
+      "raceNumber": 1,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/OxpUG0FLWhs"
     }
   ]
 }
