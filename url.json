@@ -7706,6 +7706,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/qpR5WLij1vU"
+    },
+    {
+      "date": "20250608",
+      "location": "서울",
+      "raceNumber": 9,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/LpiYqt9rTZs"
     }
   ]
 }
