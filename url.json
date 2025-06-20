@@ -7808,7 +7808,8 @@
       "raceNumber": 2,
       "videoType": "r",
       "language": "eng",
-      "videoId": "https://youtu.be/smIsONFAyZY"
+      "videoId": "https://youtu.be/smIsONFAyZY",
+      "confirmed": "O"
     }
   ]
 }
