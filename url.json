@@ -8154,6 +8154,14 @@
       "language": "kor",
       "videoId": "https://youtu.be/0hrMKT2dY90",
       "confirmed": "O"
+    },
+    {
+      "date": "20250621",
+      "location": "서울",
+      "raceNumber": 3,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/SzJ0x_K2VnY"
     }
   ]
 }
