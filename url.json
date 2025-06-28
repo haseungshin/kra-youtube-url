@@ -9207,7 +9207,8 @@
       "raceNumber": 1,
       "videoType": "r",
       "language": "eng",
-      "videoId": "https://youtu.be/D8h7nr8oy7Y"
+      "videoId": "https://youtu.be/D8h7nr8oy7Y",
+      "confirmed": "O"
     }
   ]
 }
