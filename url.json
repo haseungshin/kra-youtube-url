@@ -10673,6 +10673,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/qToMxDbWS7U",
       "confirmed": "O"
+    },
+    {
+      "date": "20250713",
+      "location": "서울",
+      "raceNumber": 2,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/TNA68Syds4g"
     }
   ]
 }
