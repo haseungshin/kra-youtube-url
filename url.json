@@ -11183,6 +11183,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/dIa8wYWRw2E",
       "confirmed": "O"
+    },
+    {
+      "date": "20250718",
+      "location": "제주",
+      "raceNumber": 3,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/6MbQP0SDh60"
     }
   ]
 }
