@@ -12183,6 +12183,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/2WrFBY6VLxw"
+    },
+    {
+      "date": "20250720",
+      "location": "서울",
+      "raceNumber": 10,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/Sn3RVf3JgdU"
     }
   ]
 }
