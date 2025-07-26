@@ -12600,6 +12600,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/VKtRkVJvjpE",
       "confirmed": "O"
+    },
+    {
+      "date": "20250726",
+      "location": "서울",
+      "raceNumber": 8,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/w8baq4Rri8o"
     }
   ]
 }
