@@ -12790,6 +12790,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/084zdlthQ4Q"
+    },
+    {
+      "date": "20250727",
+      "location": "서울",
+      "raceNumber": 6,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/p839snmDS-w"
     }
   ]
 }
