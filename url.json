@@ -14802,6 +14802,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/ifw3X4htZxU",
       "confirmed": "O"
+    },
+    {
+      "date": "20250810",
+      "location": "부경",
+      "raceNumber": 14,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/EDhbqOcEtYg"
     }
   ]
 }
