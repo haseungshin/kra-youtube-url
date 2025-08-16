@@ -15490,6 +15490,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/VCyXMd4XWTU",
       "confirmed": "O"
+    },
+    {
+      "date": "20250816",
+      "location": "서울",
+      "raceNumber": 9,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/VCz34BXPOns"
     }
   ]
 }
