@@ -15592,7 +15592,8 @@
       "raceNumber": 3,
       "videoType": "r",
       "language": "eng",
-      "videoId": "https://youtu.be/lXBuJ_OJPxY"
+      "videoId": "https://youtu.be/lXBuJ_OJPxY",
+      "confirmed": "O"
     }
   ]
 }
