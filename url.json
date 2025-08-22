@@ -50,6 +50,14 @@
       "videoType": "r",
       "language": "kor",
       "videoId": "https://youtu.be/mjxCdPiOjS8"
+    },
+    {
+      "date": "20250822",
+      "location": "부경",
+      "raceNumber": 8,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/yuA9IyEugRU"
     }
   ]
 }
