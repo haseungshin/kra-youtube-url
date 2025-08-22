@@ -1,18 +1,21 @@
-[
+{
+  "races": [
     {
-      "date": "20250821",
-      "location": "제주",
-      "raceNumber": 1,
+      "date": "20250420",
+      "location": "서울",
+      "raceNumber": 11,
       "videoType": "r",
       "language": "kor",
-      "videoId": "https://youtu.be/I9L9f2wCfDI"
+      "videoId": "https://youtu.be/r7J6o-Ge-vQ"
     },
     {
-      "date": "20250821",
-      "location": "제주",
-      "raceNumber": 3,
-      "videoType": "y",
+      "date": "20250425",
+      "location": "부경",
+      "raceNumber": 7,
+      "videoType": "r",
       "language": "kor",
-      "videoId": "https://youtu.be/yETFs3vvZHE"
+      "videoId": "https://youtu.be/A0vSB0jC0dU",
+      "confirmed": "O"
     }
-]
+  ]
+}
