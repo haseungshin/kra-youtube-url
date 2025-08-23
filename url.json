@@ -90,6 +90,14 @@
       "videoType": "r",
       "language": "kor",
       "videoId": "https://youtu.be/h8Ou2TfRQ9o"
+    },
+    {
+      "date": "20250823",
+      "location": "SEOUL",
+      "raceNumber": 1,
+      "videoType": "r",
+      "language": "eng",
+      "videoId": "https://youtu.be/O1MXcoOcJv8"
     }
   ]
 }
