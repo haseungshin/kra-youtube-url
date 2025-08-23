@@ -322,6 +322,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/FKAVmuUe45c"
+    },
+    {
+      "date": "20250823",
+      "location": "서울",
+      "raceNumber": 7,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/KRZ5xpRr418"
     }
   ]
 }
