@@ -138,6 +138,14 @@
       "videoType": "r",
       "language": "eng",
       "videoId": "https://youtu.be/UHxeiek-nUo"
+    },
+    {
+      "date": "20250823",
+      "location": "제주",
+      "raceNumber": 2,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/L0As4Snu0wg"
     }
   ]
 }
