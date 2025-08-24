@@ -650,6 +650,14 @@
       "videoType": "r",
       "language": "kor",
       "videoId": "https://youtu.be/G-Pwwjd0XTU"
+    },
+    {
+      "date": "20250824",
+      "location": "SEOUL",
+      "raceNumber": 6,
+      "videoType": "r",
+      "language": "eng",
+      "videoId": "https://youtu.be/MebgdcrQC3I"
     }
   ]
 }
