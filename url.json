@@ -1008,6 +1008,14 @@
     },
     {
       "date": "20250829",
+      "location": "부경",
+      "raceNumber": 4,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/TpfdI4w3ueU"
+    },
+    {
+      "date": "20250829",
       "location": "제주",
       "raceNumber": 5,
       "videoType": "y",
