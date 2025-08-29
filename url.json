@@ -1111,6 +1111,14 @@
     },
     {
       "date": "20250829",
+      "location": "부경",
+      "raceNumber": 7,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/q-8I7yaGF3k"
+    },
+    {
+      "date": "20250829",
       "location": "제주",
       "raceNumber": 8,
       "videoType": "y",
