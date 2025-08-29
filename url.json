@@ -1159,6 +1159,14 @@
       "videoType": "r",
       "language": "kor",
       "videoId": "https://youtu.be/TKrJMkbJVPo"
+    },
+    {
+      "date": "20250829",
+      "location": "BUSAN",
+      "raceNumber": 8,
+      "videoType": "r",
+      "language": "eng",
+      "videoId": "https://youtu.be/hc90eJ4_vUw"
     }
   ]
 }
