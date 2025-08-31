@@ -1728,6 +1728,14 @@
       "videoType": "r",
       "language": "kor",
       "videoId": "https://youtu.be/EZqMHglhE6U"
+    },
+    {
+      "date": "20250831",
+      "location": "SEOUL",
+      "raceNumber": 7,
+      "videoType": "r",
+      "language": "eng",
+      "videoId": "https://youtu.be/Kif4S9TI_QM"
     }
   ]
 }
