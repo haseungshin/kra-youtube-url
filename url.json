@@ -1623,7 +1623,8 @@
       "raceNumber": 5,
       "videoType": "r",
       "language": "kor",
-      "videoId": "https://youtu.be/1ogf9DbyLNY"
+      "videoId": "https://youtu.be/1ogf9DbyLNY",
+      "confirmed": "O"
     },
     {
       "date": "20250831",
