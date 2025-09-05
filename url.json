@@ -1996,7 +1996,8 @@
       "raceNumber": 4,
       "videoType": "r",
       "language": "kor",
-      "videoId": "https://youtu.be/PVqFBD2fCHs"
+      "videoId": "https://youtu.be/PVqFBD2fCHs",
+      "confirmed": "O"
     }
   ]
 }
