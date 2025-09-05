@@ -1953,7 +1953,8 @@
       "raceNumber": 3,
       "videoType": "r",
       "language": "kor",
-      "videoId": "https://youtu.be/tbFZ9LSwBSw"
+      "videoId": "https://youtu.be/tbFZ9LSwBSw",
+      "confirmed": "O"
     }
   ]
 }
