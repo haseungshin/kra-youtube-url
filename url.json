@@ -1992,6 +1992,14 @@
     },
     {
       "date": "20250905",
+      "location": "부경",
+      "raceNumber": 3,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/xn48RNBmxeg"
+    },
+    {
+      "date": "20250905",
       "location": "제주",
       "raceNumber": 4,
       "videoType": "y",
