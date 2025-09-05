@@ -2220,7 +2220,8 @@
       "raceNumber": 8,
       "videoType": "r",
       "language": "eng",
-      "videoId": "https://youtu.be/SPtBgYgEDqo"
+      "videoId": "https://youtu.be/SPtBgYgEDqo",
+      "confirmed": "O"
     }
   ]
 }
