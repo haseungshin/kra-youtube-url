@@ -2298,6 +2298,14 @@
       "videoType": "r",
       "language": "kor",
       "videoId": "https://youtu.be/P2B83HINanc"
+    },
+    {
+      "date": "20250906",
+      "location": "SEOUL",
+      "raceNumber": 2,
+      "videoType": "r",
+      "language": "eng",
+      "videoId": "https://youtu.be/bIkrsXdk_9Y"
     }
   ]
 }
