@@ -2661,6 +2661,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/bqS0RLY0vNk"
+    },
+    {
+      "date": "20250907",
+      "location": "서울",
+      "raceNumber": 3,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/_HGOFhVUHSo"
     }
   ]
 }
