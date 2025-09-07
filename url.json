@@ -2705,6 +2705,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/sxsxNH4KBRM",
       "confirmed": "O"
+    },
+    {
+      "date": "20250907",
+      "location": "서울",
+      "raceNumber": 4,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/4WZ5kbcmUM0"
     }
   ]
 }
