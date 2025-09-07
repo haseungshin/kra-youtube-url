@@ -2653,6 +2653,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/JdO7rwo7XzU",
       "confirmed": "O"
+    },
+    {
+      "date": "20250907",
+      "location": "서울",
+      "raceNumber": 3,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/bqS0RLY0vNk"
     }
   ]
 }
