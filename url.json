@@ -3309,6 +3309,14 @@
     },
     {
       "date": "20250913",
+      "location": "SEOUL",
+      "raceNumber": 1,
+      "videoType": "r",
+      "language": "eng",
+      "videoId": "https://youtu.be/5CDYbb6qTkE"
+    },
+    {
+      "date": "20250913",
       "location": "제주",
       "raceNumber": 2,
       "videoType": "y",
