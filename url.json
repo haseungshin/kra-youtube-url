@@ -3273,6 +3273,14 @@
       "videoType": "r",
       "language": "eng",
       "videoId": "https://youtu.be/7xKys-m5lNM"
+    },
+    {
+      "date": "20250913",
+      "location": "제주",
+      "raceNumber": 1,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/UV6yyLaauhQ"
     }
   ]
 }
