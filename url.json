@@ -3505,6 +3505,14 @@
       "language": "kor",
       "videoId": "https://youtu.be/716UuIKP4MA",
       "confirmed": "O"
+    },
+    {
+      "date": "20250913",
+      "location": "SEOUL",
+      "raceNumber": 6,
+      "videoType": "r",
+      "language": "eng",
+      "videoId": "https://youtu.be/uDFtT0mN1ew"
     }
   ]
 }
