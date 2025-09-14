@@ -4007,6 +4007,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/07QGpvHKLqQ"
+    },
+    {
+      "date": "20250914",
+      "location": "서울",
+      "raceNumber": 9,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/BTY0tL2uGjI"
     }
   ]
 }
