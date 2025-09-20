@@ -4697,6 +4697,14 @@
     },
     {
       "date": "20250920",
+      "location": "SEOUL",
+      "raceNumber": 7,
+      "videoType": "r",
+      "language": "eng",
+      "videoId": "https://youtu.be/CfewIlGN39I"
+    },
+    {
+      "date": "20250920",
       "location": "제주",
       "raceNumber": 8,
       "videoType": "y",
