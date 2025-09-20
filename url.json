@@ -4495,7 +4495,8 @@
       "raceNumber": 3,
       "videoType": "r",
       "language": "kor",
-      "videoId": "https://youtu.be/olJcQ12morE"
+      "videoId": "https://youtu.be/olJcQ12morE",
+      "confirmed": "O"
     }
   ]
 }
