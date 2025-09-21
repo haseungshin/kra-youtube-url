@@ -4954,6 +4954,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/KBfXvuDceII",
       "confirmed": "O"
+    },
+    {
+      "date": "20250921",
+      "location": "서울",
+      "raceNumber": 5,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/CVajpC5UmI8"
     }
   ]
 }
