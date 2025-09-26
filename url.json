@@ -5444,7 +5444,8 @@
       "raceNumber": 6,
       "videoType": "r",
       "language": "kor",
-      "videoId": "https://youtu.be/TeO3xIkleis"
+      "videoId": "https://youtu.be/TeO3xIkleis",
+      "confirmed": "O"
     }
   ]
 }
