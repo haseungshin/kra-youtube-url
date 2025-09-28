@@ -6290,6 +6290,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/G9P23jErf1c"
+    },
+    {
+      "date": "20250928",
+      "location": "서울",
+      "raceNumber": 8,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/Mq4wTK-9qbw"
     }
   ]
 }
