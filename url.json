@@ -6620,6 +6620,14 @@
     },
     {
       "date": "20251002",
+      "location": "BUSAN",
+      "raceNumber": 5,
+      "videoType": "r",
+      "language": "eng",
+      "videoId": "https://youtu.be/D-CjXvjGXJ0"
+    },
+    {
+      "date": "20251002",
       "location": "제주",
       "raceNumber": 6,
       "videoType": "y",
