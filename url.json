@@ -7031,6 +7031,14 @@
       "language": "kor",
       "videoId": "https://youtu.be/O5-F8f9lSts",
       "confirmed": "O"
+    },
+    {
+      "date": "20251003",
+      "location": "서울",
+      "raceNumber": 7,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/5fcHeLE3K1Q"
     }
   ]
 }
