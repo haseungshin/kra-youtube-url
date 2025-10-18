@@ -8042,6 +8042,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/CJqCbRxvCk0",
       "confirmed": "O"
+    },
+    {
+      "date": "20251018",
+      "location": "서울",
+      "raceNumber": 5,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/SKpk0-zWsFM"
     }
   ]
 }
