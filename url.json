@@ -9288,6 +9288,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/Ad5ee0Omx7A",
       "confirmed": "O"
+    },
+    {
+      "date": "20251025",
+      "location": "서울",
+      "raceNumber": 9,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/47h5Ux-u44g"
     }
   ]
 }
