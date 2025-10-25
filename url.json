@@ -9013,6 +9013,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/wuEf7Bz-gmg"
+    },
+    {
+      "date": "20251025",
+      "location": "서울",
+      "raceNumber": 1,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/AQgQQwWfMGM"
     }
   ]
 }
