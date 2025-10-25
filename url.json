@@ -9330,6 +9330,14 @@
       "videoType": "r",
       "language": "kor",
       "videoId": "https://youtu.be/7PaqV2QYJQw"
+    },
+    {
+      "date": "20251025",
+      "location": "SEOUL",
+      "raceNumber": 10,
+      "videoType": "r",
+      "language": "eng",
+      "videoId": "https://youtu.be/8IcAZfqcBMs"
     }
   ]
 }
