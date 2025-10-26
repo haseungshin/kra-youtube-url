@@ -9805,7 +9805,8 @@
       "raceNumber": 11,
       "videoType": "r",
       "language": "eng",
-      "videoId": "https://youtu.be/le_DCMalsX4"
+      "videoId": "https://youtu.be/le_DCMalsX4",
+      "confirmed": "O"
     }
   ]
 }
