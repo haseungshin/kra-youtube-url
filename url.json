@@ -9633,6 +9633,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/xft0Q7_7fek"
+    },
+    {
+      "date": "20251026",
+      "location": "서울",
+      "raceNumber": 7,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/juo-kfOrA1E"
     }
   ]
 }
