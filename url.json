@@ -10108,6 +10108,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/hi-jX4hqxgk",
       "confirmed": "O"
+    },
+    {
+      "date": "20251031",
+      "location": "제주",
+      "raceNumber": 8,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/s9VJxFUpOPk"
     }
   ]
 }
