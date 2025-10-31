@@ -9927,6 +9927,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/EMlDHVizdKc"
+    },
+    {
+      "date": "20251031",
+      "location": "BUSAN",
+      "raceNumber": 3,
+      "videoType": "r",
+      "language": "eng",
+      "videoId": "https://youtu.be/03acZ7p7pT4"
     }
   ]
 }
