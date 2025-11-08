@@ -11443,6 +11443,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/v3LsT1PvZzI",
       "confirmed": "O"
+    },
+    {
+      "date": "20251108",
+      "location": "서울",
+      "raceNumber": 4,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/r9j0UbC15MI"
     }
   ]
 }
