@@ -12350,6 +12350,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/VUg5ZjTmVbE",
       "confirmed": "O"
+    },
+    {
+      "date": "20251114",
+      "location": "제주",
+      "raceNumber": 5,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/qQnmXrem5eM"
     }
   ]
 }
