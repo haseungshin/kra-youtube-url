@@ -12547,6 +12547,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/6xMOBiYOBA8",
       "confirmed": "O"
+    },
+    {
+      "date": "20251115",
+      "location": "서울",
+      "raceNumber": 1,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/AobYP-HXjBg"
     }
   ]
 }
