@@ -13443,7 +13443,8 @@
       "raceNumber": 2,
       "videoType": "r",
       "language": "eng",
-      "videoId": "https://youtu.be/gyNsmihLSbg"
+      "videoId": "https://youtu.be/gyNsmihLSbg",
+      "confirmed": "O"
     }
   ]
 }
