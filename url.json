@@ -13735,6 +13735,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/pxma1MZfZNE"
+    },
+    {
+      "date": "20251122",
+      "location": "서울",
+      "raceNumber": 2,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/IyxeMUJwoNA"
     }
   ]
 }
