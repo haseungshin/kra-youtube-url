@@ -14901,6 +14901,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/aqH3oOo4UhU",
       "confirmed": "O"
+    },
+    {
+      "date": "20251129",
+      "location": "SEOUL",
+      "raceNumber": 1,
+      "videoType": "r",
+      "language": "eng",
+      "videoId": "https://youtu.be/2mHMCItWct0"
     }
   ]
 }
