@@ -15601,6 +15601,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/Bw8jCQHWS8w",
       "confirmed": "O"
+    },
+    {
+      "date": "20251130",
+      "location": "서울",
+      "raceNumber": 8,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/fVg_Ot-U1lA"
     }
   ]
 }
