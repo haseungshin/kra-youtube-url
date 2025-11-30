@@ -15705,6 +15705,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/Td4uCJp9_3k",
       "confirmed": "O"
+    },
+    {
+      "date": "20251130",
+      "location": "서울",
+      "raceNumber": 11,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/FlXvE5Mji-0"
     }
   ]
 }
