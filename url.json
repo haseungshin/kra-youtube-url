@@ -16281,6 +16281,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/RnsteHNyP_E",
       "confirmed": "O"
+    },
+    {
+      "date": "20251206",
+      "location": "서울",
+      "raceNumber": 6,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/pnRslom5Imc"
     }
   ]
 }
