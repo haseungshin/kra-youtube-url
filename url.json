@@ -16301,6 +16301,14 @@
     },
     {
       "date": "20251206",
+      "location": "제주",
+      "raceNumber": 5,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/lvEkoi4t30Y"
+    },
+    {
+      "date": "20251206",
       "location": "서울",
       "raceNumber": 6,
       "videoType": "y",
