@@ -16488,6 +16488,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/f39L7BsG0z8",
       "confirmed": "O"
+    },
+    {
+      "date": "20251207",
+      "location": "서울",
+      "raceNumber": 1,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/peeRdvV5lI8"
     }
   ]
 }
