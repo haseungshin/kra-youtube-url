@@ -17102,6 +17102,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/DR6JNujWG3s",
       "confirmed": "O"
+    },
+    {
+      "date": "20251212",
+      "location": "제주",
+      "raceNumber": 5,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/suxd-rX3elY"
     }
   ]
 }
