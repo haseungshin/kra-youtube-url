@@ -17350,7 +17350,8 @@
       "raceNumber": 2,
       "videoType": "r",
       "language": "eng",
-      "videoId": "https://youtu.be/MM-JTnmkaug"
+      "videoId": "https://youtu.be/MM-JTnmkaug",
+      "confirmed": "O"
     }
   ]
 }
