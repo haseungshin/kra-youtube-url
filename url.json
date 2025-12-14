@@ -17700,6 +17700,14 @@
     },
     {
       "date": "20251214",
+      "location": "부경",
+      "raceNumber": 1,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/o2K6b2V3Wh4"
+    },
+    {
+      "date": "20251214",
       "location": "서울",
       "raceNumber": 2,
       "videoType": "y",
