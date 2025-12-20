@@ -18578,6 +18578,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/pOQCQCqgfQg"
+    },
+    {
+      "date": "20251220",
+      "location": "서울",
+      "raceNumber": 4,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/9YpbAfcXQuA"
     }
   ]
 }
