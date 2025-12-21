@@ -19229,6 +19229,14 @@
     },
     {
       "date": "20251221",
+      "location": "SEOUL",
+      "raceNumber": 9,
+      "videoType": "r",
+      "language": "eng",
+      "videoId": "https://youtu.be/QdqQvbGHQ-c"
+    },
+    {
+      "date": "20251221",
       "location": "서울",
       "raceNumber": 10,
       "videoType": "y",
