@@ -19898,6 +19898,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/M4_LYBRK4h4",
       "confirmed": "O"
+    },
+    {
+      "date": "20251227",
+      "location": "서울",
+      "raceNumber": 11,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/OrRqF6G38EM"
     }
   ]
 }
