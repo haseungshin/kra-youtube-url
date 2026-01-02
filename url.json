@@ -20366,6 +20366,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/9k17VaVcrZM",
       "confirmed": "O"
+    },
+    {
+      "date": "20260102",
+      "location": "제주",
+      "raceNumber": 1,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/OOYFNd8uo7E"
     }
   ]
 }
