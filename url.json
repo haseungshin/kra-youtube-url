@@ -21064,6 +21064,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/QyQCbxhumz4",
       "confirmed": "O"
+    },
+    {
+      "date": "20260103",
+      "location": "서울",
+      "raceNumber": 11,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/3_7MC66QRlA"
     }
   ]
 }
