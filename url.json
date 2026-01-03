@@ -20883,6 +20883,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/x2CBK566xS8",
       "confirmed": "O"
+    },
+    {
+      "date": "20260103",
+      "location": "서울",
+      "raceNumber": 6,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/QrE_FQOd8Cg"
     }
   ]
 }
