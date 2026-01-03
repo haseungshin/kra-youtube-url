@@ -20718,6 +20718,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/B0CN1VOV7F4"
+    },
+    {
+      "date": "20260103",
+      "location": "서울",
+      "raceNumber": 1,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/1bk3cL3WgfM"
     }
   ]
 }
