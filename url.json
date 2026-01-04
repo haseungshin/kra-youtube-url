@@ -21423,6 +21423,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/2ComAm_ZLrQ"
+    },
+    {
+      "date": "20260104",
+      "location": "서울",
+      "raceNumber": 8,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/ubMK_qIoQtc"
     }
   ]
 }
