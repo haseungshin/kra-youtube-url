@@ -21280,6 +21280,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/0iO2nSrSzVo"
+    },
+    {
+      "date": "20260104",
+      "location": "서울",
+      "raceNumber": 5,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/c1JeC7Hxcx4"
     }
   ]
 }
