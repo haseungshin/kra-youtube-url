@@ -21098,6 +21098,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/wQY-8_pBM1Y"
+    },
+    {
+      "date": "20260104",
+      "location": "서울",
+      "raceNumber": 1,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/MiMYXfRuWsw"
     }
   ]
 }
