@@ -22200,6 +22200,14 @@
       "videoType": "r",
       "language": "eng",
       "videoId": "https://youtu.be/rMIfFo3IMIg"
+    },
+    {
+      "date": "20260110",
+      "location": "서울",
+      "raceNumber": 10,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/BpAEYmj6-tE"
     }
   ]
 }
