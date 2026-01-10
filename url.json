@@ -21880,6 +21880,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/Jd4INBZs75A"
+    },
+    {
+      "date": "20260110",
+      "location": "서울",
+      "raceNumber": 1,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/9fPLFM2zcS0"
     }
   ]
 }
