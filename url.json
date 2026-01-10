@@ -21924,6 +21924,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/YaPkPF_T5NI",
       "confirmed": "O"
+    },
+    {
+      "date": "20260110",
+      "location": "서울",
+      "raceNumber": 3,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/O8-XPXAf77k"
     }
   ]
 }
