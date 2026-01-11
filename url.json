@@ -22648,6 +22648,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/w3wcpy5lrys"
+    },
+    {
+      "date": "20260111",
+      "location": "서울",
+      "raceNumber": 9,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/lGyPQf2pNM0"
     }
   ]
 }
