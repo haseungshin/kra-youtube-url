@@ -23108,6 +23108,14 @@
     },
     {
       "date": "20260117",
+      "location": "제주",
+      "raceNumber": 1,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/r2KtfLybyqo"
+    },
+    {
+      "date": "20260117",
       "location": "서울",
       "raceNumber": 2,
       "videoType": "y",
