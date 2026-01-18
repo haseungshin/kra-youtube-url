@@ -23693,6 +23693,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/RWeABHjfU5g",
       "confirmed": "O"
+    },
+    {
+      "date": "20260118",
+      "location": "서울",
+      "raceNumber": 6,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/qmrA1raxQI0"
     }
   ]
 }
