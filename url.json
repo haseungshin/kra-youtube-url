@@ -23608,6 +23608,14 @@
     },
     {
       "date": "20260118",
+      "location": "BUSAN",
+      "raceNumber": 3,
+      "videoType": "r",
+      "language": "eng",
+      "videoId": "https://youtu.be/V26lRF3ZZZo"
+    },
+    {
+      "date": "20260118",
       "location": "서울",
       "raceNumber": 4,
       "videoType": "y",
