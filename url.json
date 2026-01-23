@@ -24030,6 +24030,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/rUVlOj0Z-Ew",
       "confirmed": "O"
+    },
+    {
+      "date": "20260123",
+      "location": "제주",
+      "raceNumber": 4,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/CtwmYG4xOX0"
     }
   ]
 }
