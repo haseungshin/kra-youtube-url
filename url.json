@@ -24624,6 +24624,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/I3mSGkxN2Is"
+    },
+    {
+      "date": "20260124",
+      "location": "서울",
+      "raceNumber": 11,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/CxOW4fEwong"
     }
   ]
 }
