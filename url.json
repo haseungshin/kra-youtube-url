@@ -24478,6 +24478,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/bmQ9DLQRLsA",
       "confirmed": "O"
+    },
+    {
+      "date": "20260124",
+      "location": "서울",
+      "raceNumber": 7,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/OQjnmWXQiGw"
     }
   ]
 }
