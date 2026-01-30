@@ -25280,7 +25280,8 @@
       "raceNumber": 5,
       "videoType": "r",
       "language": "eng",
-      "videoId": "https://youtu.be/ZpuzawonW50"
+      "videoId": "https://youtu.be/ZpuzawonW50",
+      "confirmed": "O"
     }
   ]
 }
