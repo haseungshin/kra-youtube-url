@@ -25420,6 +25420,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/Mq3V78zE4RQ",
       "confirmed": "O"
+    },
+    {
+      "date": "20260131",
+      "location": "서울",
+      "raceNumber": 1,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/6qNOlMswOkc"
     }
   ]
 }
