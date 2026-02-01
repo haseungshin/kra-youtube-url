@@ -26050,6 +26050,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/IsY6ahyUNdc"
+    },
+    {
+      "date": "20260201",
+      "location": "서울",
+      "raceNumber": 6,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/CVJp3B4O934"
     }
   ]
 }
