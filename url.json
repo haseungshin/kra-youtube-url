@@ -26603,6 +26603,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/W3KbZ0GwAGQ",
       "confirmed": "O"
+    },
+    {
+      "date": "20260207",
+      "location": "서울",
+      "raceNumber": 1,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/5-PjWQ2yTsA"
     }
   ]
 }
