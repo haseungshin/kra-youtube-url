@@ -27285,6 +27285,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/4elRf6kaWUg"
+    },
+    {
+      "date": "20260208",
+      "location": "서울",
+      "raceNumber": 7,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/KctrWDmTYHg"
     }
   ]
 }
