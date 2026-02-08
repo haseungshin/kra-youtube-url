@@ -27407,6 +27407,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/bKB3C7tkHEE",
       "confirmed": "O"
+    },
+    {
+      "date": "20260208",
+      "location": "서울",
+      "raceNumber": 10,
+      "videoType": "y",
+      "language": "kor",
+      "videoId": "https://youtu.be/SXJPf5Wd94c"
     }
   ]
 }
