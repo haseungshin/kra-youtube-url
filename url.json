@@ -27433,6 +27433,14 @@
       "language": "eng",
       "videoId": "https://youtu.be/z2-6Noj1KZA",
       "confirmed": "O"
+    },
+    {
+      "date": "20260213",
+      "location": "제주",
+      "raceNumber": 1,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/BJgEHdA1nj8"
     }
   ]
 }
