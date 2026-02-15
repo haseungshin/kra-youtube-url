@@ -28200,6 +28200,14 @@
       "videoType": "y",
       "language": "kor",
       "videoId": "https://youtu.be/0sU5eop_W5M"
+    },
+    {
+      "date": "20260215",
+      "location": "서울",
+      "raceNumber": 2,
+      "videoType": "r",
+      "language": "kor",
+      "videoId": "https://youtu.be/hOatvGIaf1s"
     }
   ]
 }
